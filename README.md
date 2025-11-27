@@ -7,7 +7,6 @@
 ---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aanchalshres&show_icons=true&include_all_commits=true&count_private=true&theme=dracula" height="150" alt="stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aanchalshres&layout=compact&langs_count=5&theme=dracula" height="150" alt="languages" />
 </div>
 
