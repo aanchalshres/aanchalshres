@@ -1,6 +1,6 @@
 <h2 align="left">👋 Hi! I’m Aachal</h2>
 <p align="left">
-  💻 Developer | 🌐 Web Enthusiast | 📚 Lifelong Learner<br>
+  💻 Developer |Tech Enthusiast | 📚 Lifelong Learner<br>
   Skilled in building modern web applications and solving real-world problems with code. Always exploring new technologies and open to collaboration.
 </p>
 
