@@ -30,11 +30,6 @@
 </div>
 
 ---
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/aanchalshres/aanchalshres/output/snake.svg" alt="Snake animation" />
 
 ### Connect with me
 <div align="left">
